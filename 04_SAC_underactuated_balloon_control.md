@@ -1,6 +1,5 @@
 # Resource-Constrained Station-Keeping for Helium Balloons using Reinforcement Learning
 
-**Authors:** (arXiv authors)  
 **Year:** 2023  
 **Venue:** arXiv:2303.01173  
 **Link:** [arXiv](https://arxiv.org/abs/2303.01173)

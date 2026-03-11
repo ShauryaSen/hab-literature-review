@@ -21,4 +21,4 @@ This paper demonstrates the value of balloon wind observations for weather forec
 ---
 
 ## Primary Advantage
-> **A small number of in-situ balloon wind observations produces outsized improvements in tropical weather analyses and forecasts.** The tropical lower stratosphere is so data-sparse that even modest observational additions substantially correct model errors — errors that propagate downward into 2–10 day surface weather forecasts.
+**A small number of in-situ balloon wind observations produces outsized improvements in tropical weather analyses and forecasts.** The tropical lower stratosphere is so data-sparse that even modest observational additions substantially correct model errors — errors that propagate downward into 2–10 day surface weather forecasts.

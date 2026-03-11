@@ -1,6 +1,5 @@
 # Multi-AUV Sediment Plume Estimation using Bayesian Optimization
 
-**Authors:** (Multiple — Frontiers in Marine Science)  
 **Year:** 2024  
 **Venue:** Frontiers in Marine Science  
 **Link:** [Frontiers](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1504099/full)
@@ -23,6 +22,6 @@ The approach works as follows:
 ---
 
 ## Primary Advantage
-> **The BO+TSP approach monitors time-varying sediment plumes with good overall estimation error** across 3D space and time, even with limited AUVs. The sliding-window mechanism prevents GP model degradation as the plume evolves. The authors demonstrate successful plume tracking over a 16-hour simulated dredge experiment.
+**The BO+TSP approach monitors time-varying sediment plumes with good overall estimation error** across 3D space and time, even with limited AUVs. The sliding-window mechanism prevents GP model degradation as the plume evolves. The authors demonstrate successful plume tracking over a 16-hour simulated dredge experiment.
 
 The method is shown to correctly estimate the rough shape and concentration of the plume at all time steps, with the largest errors occurring at the domain boundary where the plume enters and where turbulence is highest.
