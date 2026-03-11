@@ -6,20 +6,20 @@ Click on the paper links below for their individual reviews.
 | --- | -------------------------------------------------------------------------- | --------------------------------- | ---- |
 | 1   | [Optimal Launch Sites for HABs](01_identifying_optimal_launch_sites_BO.md) | Bayesian Optimization + GP        | 2024 |
 | 2   | [Multi-AUV Plume Estimation](02_multi_AUV_sediment_plume_BO.md)            | Sliding-Window BO + TSP           | 2024 |
-| 4   | [SAC Balloon Control](04_SAC_underactuated_balloon_control.md)             | Soft Actor-Critic (continuous RL) | 2023 |
-| 8   | [RL for Outdoor Balloon Navigation](08_RL_outdoor_balloon_navigation.md)   | SAC (sim-to-real transfer)        | 2024 |
-| 9   | [Seasonal Station-Keeping (NRL)](09_seasonal_station_keeping_HAB_DRL.md)   | DQN + Forecast Score metric       | 2025 |
+| 3   | [SAC Balloon Control](03_SAC_underactuated_balloon_control.md)             | Soft Actor-Critic (continuous RL) | 2023 |
+| 7   | [RL for Outdoor Balloon Navigation](07_RL_outdoor_balloon_navigation.md)   | SAC (sim-to-real transfer)        | 2024 |
+| 8   | [Seasonal Station-Keeping (NRL)](08_seasonal_station_keeping_HAB_DRL.md)   | DQN + Forecast Score metric       | 2025 |
 
 ### Applications
 
 | # | Paper | Domain | Year |
 |---|-------|--------|------|
-| 5 | [NASA STRATO Wildfire Monitoring](05_NASA_STRATO_wildfire_monitoring.md) | Stratospheric balloon | 2024 |
-| 6 | [Loon Data Assimilation (NASA GEOS)](06_global_assimilation_loon_balloon_observations.md) | Weather forecasting | 2019 |
-| 7 | [Redwing Glider Circumnavigation](07_redwing_glider_circumnavigation.md) | Underwater glider | 2025 |
+| 4 | [NASA STRATO Wildfire Monitoring](04_NASA_STRATO_wildfire_monitoring.md) | Stratospheric balloon | 2024 |
+| 5 | [Loon Data Assimilation (NASA GEOS)](05_global_assimilation_loon_balloon_observations.md) | Weather forecasting | 2019 |
+| 6 | [Redwing Glider Circumnavigation](06_redwing_glider_circumnavigation.md) | Underwater glider | 2025 |
 
 ---
-## References (by page number)
+## References
 
 1. Saunders et al. (2024). Identifying Optimal Launch Sites of HABs using Bayesian Optimisation. arXiv:2403.10784.
 2. Multi-AUV Sediment Plume Estimation using BO (2024). Frontiers in Marine Science.
